@@ -1,12 +1,36 @@
-# React + Vite
+ 🛍️ GalleryStore
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ A modern and responsive eCommerce frontend application built with React and Tailwind CSS as part of the Route Tech Summit 2025 frontend evaluation task.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+ 📌 Project Overview
 
-## Expanding the ESLint configuration
+This project fetches and displays product data from the FakeStore API. It allows users to:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- View New Arrivals products on the homepage
+- Browse and filter products in the Gallery page
+- Search and sort products by name or price
+- View detailed information about each product
+- Add products to a cart with quantity management
+- View cart summary and clear/remove items
+- Experience dark mode support and toast notifications
+
+---
+
+ 📸 Screenshots
+[Screenshot](https://github.com/user-attachments/assets/c222b371-d603-4730-aa24-c700e74cb249)
+
+ Demo : https://ecommerce-gallery-store.vercel.app/
+
+---
+
+## ⚙️ Tech Stack Used
+
+*React* 
+*React Router*         
+*Tailwind CSS*
+*useContext*
+*Axios*    
+*React Toastify* 
+*FakeStore API* 
