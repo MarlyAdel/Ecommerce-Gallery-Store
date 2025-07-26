@@ -18,8 +18,7 @@ This project fetches and displays product data from the FakeStore API. It allows
 
 ---
 
- 📸 Screenshots
-[Screenshot](https://github.com/user-attachments/assets/c222b371-d603-4730-aa24-c700e74cb249)
+ 🚀 Live Demo
 
  Demo : https://ecommerce-gallery-store.vercel.app/
 
@@ -27,10 +26,10 @@ This project fetches and displays product data from the FakeStore API. It allows
 
 ## ⚙️ Tech Stack Used
 
-*React* 
-*React Router*         
-*Tailwind CSS*
-*useContext*
-*Axios*    
-*React Toastify* 
-*FakeStore API* 
+**React** 
+**React Router**         
+**Tailwind CSS**
+**useContext**
+**Axios**    
+**React Toastify** 
+**FakeStore API** 
