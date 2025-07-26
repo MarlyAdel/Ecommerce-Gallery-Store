@@ -26,10 +26,10 @@ This project fetches and displays product data from the FakeStore API. It allows
 
 ## ⚙️ Tech Stack Used
 
-**React** 
-**React Router**         
-**Tailwind CSS**
-**useContext**
-**Axios**    
-**React Toastify** 
-**FakeStore API** 
+- React 
+- React Router         
+- Tailwind CSS
+- useContext
+- Axios   
+- React Toastify 
+- FakeStore API
